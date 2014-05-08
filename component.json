@@ -1,5 +1,5 @@
 {
-  "name": "modella-adapter",
+  "name": "reactive-modella",
   "description": "Reactive adapter for modella",
   "version": "0.0.1",
   "scripts": [ "index.js"]
